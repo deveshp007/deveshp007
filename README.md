@@ -29,6 +29,44 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/Python-F4E06D?style=for-the-badge&logo=python&logoColor=1363DF)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
+### Android App Development
+
+![Android](https://img.shields.io/badge/Android-5FD068?style=for-the-badge&logo=android&logoColor=white)
+![XML](https://img.shields.io/badge/xml-F15412?style=for-the-badge&logo=xml&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android-Studio-5FD068?style=for-the-badge&logo=androidstudio&logoColor=white)
+![material-ui](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+![git](https://img.shields.io/badge/git-white?style=for-the-badge&logo=git&logoColor=F15412)
+![database](https://img.shields.io/badge/database-1F4690?style=for-the-badge&logo=mysql&logoColor=F15412)
+![Api](https://img.shields.io/badge/API-354259?style=for-the-badge&logo=json&logoColor=F15412)
+
+### Full-Stack Web Development
+
+![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-36AE7C?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Backend as a Service (BaaS)
+
+![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
+![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+
+### Design Tools (UI/UX, Logo, etc)
+
+![adobe-xd](https://img.shields.io/badge/adobe_xd-470137?style=for-the-badge&logo=adobe-xd&logoColor=white)
+![canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+
+## 🖥️ Workspace Setup
+
+![ryzen-5-4600H](https://img.shields.io/badge/AMD-Ryzen_5_4600H-FF5B00?style=for-the-badge&logo=amd&logoColor=FF5B00)
+![gtx-1650](https://img.shields.io/badge/NVIDIA-GTX_1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![fedora-linux](https://img.shields.io/badge/fedora-Linux-8CC0DE?style=for-the-badge&logo=fedora&logoColor=white)
+![ryzen-7-3700U](https://img.shields.io/badge/AMD-Ryzen_7_3700U-FF5B00?style=for-the-badge&logo=amd&logoColor=FF5B00)
+![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Intellij-idea](https://img.shields.io/badge/Intellij-AB46D2?style=for-the-badge&logo=Intellij-idea&logoColor=white)
+![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+
 
 ## 🔗 Links to reach me:
 
