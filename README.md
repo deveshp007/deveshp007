@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## 🚀 About Me:
 
-🎓 I'm **Devesh Pandey**, Currently pursuing my Bachelors degree( Computer Science & Engineering ) from LPU, Jalandhar. Along with this I am also learning **Android App Development** & **Full Stack web development**. And as my interests lie in computer technology, I am open to learning new things and gaining knowledge in that field.
+🎓 I'm **Devesh Pandey**, Currently pursuing my Bachelors degree( Computer Science & Engineering ) from LPU, Jalandhar and will graduate in mid-2024. Along with this I am also learning **Android App Development** & **Full Stack web development**. And as my interests lie in computer technology, I am open to learning new things and gaining knowledge in that field.
 
 
 ## 🛠️ Skills
