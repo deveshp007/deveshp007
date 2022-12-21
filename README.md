@@ -19,12 +19,6 @@ Here are some ideas to get you started:
 
 🎓 I'm **Devesh Pandey**, Currently pursuing my Bachelors degree( Computer Science & Engineering ) from LPU, Jalandhar and will graduate in mid-2024. Along with this I am also learning **Android App Development** & **Full Stack web development**. And as my interests lie in computer technology, I am open to learning new things and gaining knowledge in that field.
 
-<p align="center">
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=deveshp007.deveshp007" >
-
-</p>
-
 
 ## 🛠️ Skills
 
@@ -40,7 +34,6 @@ Here are some ideas to get you started:
 ![Android](https://img.shields.io/badge/Android-5FD068?style=for-the-badge&logo=android&logoColor=white)
 ![XML](https://img.shields.io/badge/xml-F15412?style=for-the-badge&logo=xml&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android-Studio-5FD068?style=for-the-badge&logo=androidstudio&logoColor=white)
-![material-ui](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
 ![git](https://img.shields.io/badge/git-white?style=for-the-badge&logo=git&logoColor=F15412)
 ![database](https://img.shields.io/badge/database-1F4690?style=for-the-badge&logo=mysql&logoColor=F15412)
 ![Api](https://img.shields.io/badge/API-354259?style=for-the-badge&logo=json&logoColor=F15412)
@@ -61,6 +54,7 @@ Here are some ideas to get you started:
 
 ![adobe-xd](https://img.shields.io/badge/adobe_xd-470137?style=for-the-badge&logo=adobe-xd&logoColor=white)
 ![canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![material-ui](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
 
 
 ## 🖥️ Workspace Setup
