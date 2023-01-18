@@ -82,6 +82,6 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=deveshp007&show_icons=true&locale=en&theme=radical&count_private=true">
+<img src="https://github-readme-stats-ruby-one.vercel.app/api?username=deveshp007&show_icons=true&locale=en&theme=radical&count_private=true">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=deveshp007&&theme=radical" >
 </p>
