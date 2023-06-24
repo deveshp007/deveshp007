@@ -76,12 +76,3 @@ Here are some ideas to get you started:
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/devesh-pandey-35bb021b7/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/deveshp007/)
 [![twitter](https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/i_DeveshPandey)
-
-
-## 📊 Stats:
-
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=deveshp007&show_icons=true&locale=en&theme=radical&count_private=true">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=deveshp007&&theme=radical" >
-</p>
